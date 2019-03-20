@@ -1,9 +1,7 @@
 <?php
 
-$common ["first"] = 5;
 
 
-echo $common;
-
-
+//changes
+//changes 2
 ?>
