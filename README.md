@@ -1,2 +1,0 @@
-# olekdevz
-starting to deevelopment
