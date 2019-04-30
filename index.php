@@ -1,2 +1,1 @@
-I delete it all with brackets.
-ok.
+and now i'll do it with gitkraken.
